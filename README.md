@@ -1,1 +1,3 @@
-This Gui AHK hack supports latest version of CS:GO cannot be detected by VAC and cant affect your trustfactor . If you want you can help me by sending things to add to this hack to my discord privet#9291
+Gui open source CS:GO hack
+No plans to update or improve , but it should still work
+ANSI-32 bit version of AHK required and CS:GO need to be in fullscreen or fullscreen windowed
